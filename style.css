@@ -10,8 +10,8 @@ body{
     overflow: hidden;
 }
 .sliderCont{
-    width: 100%;
-    height: 500px;
+    width: 95%;
+    height: 700px;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -20,7 +20,6 @@ body{
     flex: 1;
     height: 80vh;
     overflow: hidden;
-    border-radius: 20px;
     cursor: pointer;
     margin: 10px;
     position: relative;
@@ -35,7 +34,7 @@ p{
     opacity: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     position: absolute;
     left: 40px;
     bottom: 9px;
